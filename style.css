@@ -1,0 +1,16 @@
+body {
+  background-color: #292929;
+}
+
+ul#shopList {
+  list-style-type: none;
+  margin: 0;
+}
+ul#shopList li {
+  font-size: 20px;
+}
+#deleteItem {
+  color: red;
+  font-weight: 700;
+  text-decoration: none;
+}
